@@ -1,0 +1,18 @@
+
+# Credentials and private keys
+.env
+*.pem
+*.key
+*password*
+*credential*
+
+# Virtual machine files and backups
+*.vhd
+*.vhdx
+*.avhdx
+*.iso
+*.bak
+
+# Logs and temporary files
+*.log
+*.tmp
