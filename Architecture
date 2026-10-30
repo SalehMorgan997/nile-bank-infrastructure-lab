@@ -1,0 +1,16 @@
+# Architecture
+
+This directory documents the design of the Nile Bank infrastructure lab.
+
+## Contents
+
+- `architecture-diagram.png` — infrastructure diagram
+- `design-decisions.md` — architecture choices and rationale
+- `vm-resource-table.md` — virtual machine resources
+- `ip-addressing.md` — IP addressing plan
+
+## Documentation Rules
+
+- Distinguish planned design from the current implementation.
+- Update IP addresses and VM resources to match the actual lab.
+- Sanitize screenshots and remove credentials before committing.
