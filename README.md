@@ -88,3 +88,48 @@ This project supports practical learning for roles such as:
 **Project type:** Personal hands-on lab  
 **Environment:** Virtualized, non-production  
 **Project name:** Nile Bank — Enterprise IT Infrastructure Lab
+
+
+---
+
+# New Infrastructure Components
+
+## 1. Microsoft Configuration Manager (SCCM/MECM)
+
+Implemented centralized endpoint management
+using Microsoft Configuration Manager.
+
+### Key Areas
+- SCCM architecture and administration.
+- Software deployment.
+- Windows update management.
+- Hardware inventory.
+- Endpoint management.
+
+## 2. Linux Mail Server — Mailcow
+
+Implemented a Linux-based mail server using
+Mailcow and Docker.
+
+### Key Areas
+- Linux server administration.
+- Docker-based mail server deployment.
+- Email domain and mailbox configuration.
+- SMTP and IMAP services.
+- DNS integration.
+- Email delivery testing.
+- Mail server troubleshooting.
+
+---
+
+## Additional Technologies
+
+- Microsoft Configuration Manager (SCCM/MECM)
+- Linux Server Administration
+- Mailcow
+- Docker and Docker Compose
+- SMTP / IMAP
+- DNS and Email Security
+- Software Deployment
+- Windows Patch Management
+- Hardware Inventory
